@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+/*Basic Array operation*/
 const int maxs = 50;
 class myarr{
  private:
